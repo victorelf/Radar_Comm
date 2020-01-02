@@ -20,7 +20,7 @@
 * [Spectral mask](http://dsp.stackexchange.com/questions/23556/spectral-mask-and-power-spectral-density)
 * [Why is a "3 dB bandwidth" preferred to analyze the frequency response of any circuit?](https://www.researchgate.net/post/Why_is_a_3_dB_bandwidth_preferred_to_analyze_the_frequency_response_of_any_circuit)
 * [Bandwidth (signal processing) ](https://en.wikipedia.org/wiki/Bandwidth_(signal_processing))
-* [通信中的常见噪声](http://jpkc.nwpu.edu.cn/dzjc/xiandaitongxin/jc/text/2.5.htm)
+* [似然函数与概率密度函数的区别](https://blog.csdn.net/u012284960/article/details/72859171)
 * [功率谱密度与自相关函数](http://blog.sina.com.cn/s/blog_4b164557010194y2.html)
 * [Optimization Methods - Brute Force Approach](http://www.statistics4u.info/fundstat_eng/cc_optim_meth_brutefrc.html)
 * [统计信号处理-简单看看克拉美罗界](http://www.mamicode.com/info-detail-639317.html)
