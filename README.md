@@ -27,6 +27,7 @@
 * [信噪比——信号加噪相关的知识](https://www.cnblogs.com/yinheyi/p/7429127.html)
 * [complex Gaussian distribution](https://everything2.com/title/complex+Gaussian+distribution)
 * [MIMO技术杂谈_浅谈分集与复用的权衡](http://www.txrjy.com/forum.php?mod=viewthread&tid=667901&page=1&authorid=854560)
+* [协方差矩阵](https://blog.csdn.net/baidu_38172402/article/details/82750492)
 
 ## 补充说明
 部分链接需要通过VPN访问
