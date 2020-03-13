@@ -28,6 +28,16 @@
 * [complex Gaussian distribution](https://everything2.com/title/complex+Gaussian+distribution)
 * [MIMO技术杂谈_浅谈分集与复用的权衡](http://www.txrjy.com/forum.php?mod=viewthread&tid=667901&page=1&authorid=854560)
 * [协方差矩阵](https://blog.csdn.net/baidu_38172402/article/details/82750492)
-
+* [给"小白"图示讲解OFDM的原理](https://blog.csdn.net/madongchunqiu/article/details/18614233)
+* [Kronecker 张量积](https://blog.csdn.net/donggua_fu/article/details/67632701)
+# matlab/mathtype/word相关
+* [Word中插入右编号公式时编号不靠右对齐](https://blog.csdn.net/zaishuiyifangxym/article/details/81709319)
+* [批量修改MathType公式字体大小](https://blog.csdn.net/zaishuiyifangxym/article/details/89467901)
+* [Word|如何使用交叉引用标注参考文献](https://www.jianshu.com/p/e6f71f8ba19a)
+* [不完全 gamma 函数](https://ww2.mathworks.cn/help/matlab/ref/gammainc.html)
+* [MATLAB中输入LateX公式](https://blog.csdn.net/XSTX1996/article/details/81627219)
+* [Word中利用Mathtype自动公式编号和对齐](https://jingyan.baidu.com/album/3aed632e2056c17010809190.html?picindex=13)
+* [教您如何在Word的mathtype加载项中修改章节号](https://www.mathtype.cn/jiqiao/xiugai-zhangjiehao.html)
+* [Gamma函数相关matlab代码](https://www.cnblogs.com/NaughtyBaby/p/4285500.html)
 ## 补充说明
 部分链接需要通过VPN访问
