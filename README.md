@@ -30,6 +30,7 @@
 * [协方差矩阵](https://blog.csdn.net/baidu_38172402/article/details/82750492)
 * [给"小白"图示讲解OFDM的原理](https://blog.csdn.net/madongchunqiu/article/details/18614233)
 * [Kronecker 张量积](https://blog.csdn.net/donggua_fu/article/details/67632701)
+* [Flat Fading vs Frequency Selective Fading](https://www.rfwireless-world.com/Terminology/Flat-fading-vs-Frequency-Selective-Fading.html)
 # matlab/mathtype/word相关
 * [Word中插入右编号公式时编号不靠右对齐](https://blog.csdn.net/zaishuiyifangxym/article/details/81709319)
 * [批量修改MathType公式字体大小](https://blog.csdn.net/zaishuiyifangxym/article/details/89467901)
