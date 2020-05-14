@@ -31,6 +31,7 @@
 * [给"小白"图示讲解OFDM的原理](https://blog.csdn.net/madongchunqiu/article/details/18614233)
 * [Kronecker 张量积](https://blog.csdn.net/donggua_fu/article/details/67632701)
 * [Flat Fading vs Frequency Selective Fading](https://www.rfwireless-world.com/Terminology/Flat-fading-vs-Frequency-Selective-Fading.html)
+* [What is a Receiver Operating Characteristic (ROC) Curve? ](https://www.statisticshowto.com/receiver-operating-characteristic-roc-curve/)
 # matlab相关
 * [不完全 gamma 函数](https://ww2.mathworks.cn/help/matlab/ref/gammainc.html)
 * [MATLAB中输入LateX公式](https://blog.csdn.net/XSTX1996/article/details/81627219)
