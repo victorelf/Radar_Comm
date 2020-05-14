@@ -31,14 +31,20 @@
 * [给"小白"图示讲解OFDM的原理](https://blog.csdn.net/madongchunqiu/article/details/18614233)
 * [Kronecker 张量积](https://blog.csdn.net/donggua_fu/article/details/67632701)
 * [Flat Fading vs Frequency Selective Fading](https://www.rfwireless-world.com/Terminology/Flat-fading-vs-Frequency-Selective-Fading.html)
-# matlab/mathtype/word相关
+# matlab相关
+* [不完全 gamma 函数](https://ww2.mathworks.cn/help/matlab/ref/gammainc.html)
+* [MATLAB中输入LateX公式](https://blog.csdn.net/XSTX1996/article/details/81627219)
+* [Matlab画图线型、符号及颜色汇总](https://blog.csdn.net/lk274857347/article/details/56845818)
+* [Gamma函数相关matlab代码](https://www.cnblogs.com/NaughtyBaby/p/4285500.html)
+# word
 * [Word中插入右编号公式时编号不靠右对齐](https://blog.csdn.net/zaishuiyifangxym/article/details/81709319)
 * [批量修改MathType公式字体大小](https://blog.csdn.net/zaishuiyifangxym/article/details/89467901)
 * [Word|如何使用交叉引用标注参考文献](https://www.jianshu.com/p/e6f71f8ba19a)
-* [不完全 gamma 函数](https://ww2.mathworks.cn/help/matlab/ref/gammainc.html)
-* [MATLAB中输入LateX公式](https://blog.csdn.net/XSTX1996/article/details/81627219)
+* [WORD 同一位置连续引用多个参考文献编辑技巧](https://jingyan.baidu.com/article/d2b1d102a252ac5c7e37d40d.html)
 * [Word中利用Mathtype自动公式编号和对齐](https://jingyan.baidu.com/album/3aed632e2056c17010809190.html?picindex=13)
 * [教您如何在Word的mathtype加载项中修改章节号](https://www.mathtype.cn/jiqiao/xiugai-zhangjiehao.html)
-* [Gamma函数相关matlab代码](https://www.cnblogs.com/NaughtyBaby/p/4285500.html)
+* [Word文档转成PDF后有空白页怎么办](https://zhidao.baidu.com/question/539050306.html)
+# Latex
+* [latex documentclass 及相关布局](https://blog.csdn.net/wei_love_2017/article/details/86617235)
 ## 补充说明
 部分链接需要通过VPN访问
