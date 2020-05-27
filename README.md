@@ -45,6 +45,7 @@
 * [Word中利用Mathtype自动公式编号和对齐](https://jingyan.baidu.com/album/3aed632e2056c17010809190.html?picindex=13)
 * [教您如何在Word的mathtype加载项中修改章节号](https://www.mathtype.cn/jiqiao/xiugai-zhangjiehao.html)
 * [Word文档转成PDF后有空白页怎么办](https://zhidao.baidu.com/question/539050306.html)
+* [Word怎么在方框里打勾](https://jingyan.baidu.com/article/948f5924225811d80ff5f911.html)
 # Latex
 * [latex documentclass 及相关布局](https://blog.csdn.net/wei_love_2017/article/details/86617235)
 ## 补充说明
